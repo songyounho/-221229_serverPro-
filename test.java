@@ -2,6 +2,6 @@ package test;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("221229_¼­¹öÇÁ·Î±×·¥ ±¸Çö : ¼ÛÀ±È£");
+		System.out.println("221229_ì„œë²„í”„ë¡œê·¸ëž¨ êµ¬í˜„ : ì†¡ìœ¤í˜¸");
 	}
 }
